@@ -106,19 +106,6 @@ public class Developer {
 
 <br/>
 
-## 📊 GitHub 统计 / GitHub Stats
-
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=carryxiaoguo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=a8dadc&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carryxiaoguo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=c9d1d9&langs_count=6" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=carryxiaoguo&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=e94560&ring=e94560&fire=ff6b6b&currStreakLabel=a8dadc&sideLabels=c9d1d9&dates=888888" />
-
-</div>
-
 <br/>
 
 ## 📈 贡献图 / Contribution Graph
@@ -128,12 +115,6 @@ public class Developer {
 </div>
 
 <br/>
-
-## 🏆 GitHub 成就 / GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=carryxiaoguo&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</div>
 
 <br/>
 
