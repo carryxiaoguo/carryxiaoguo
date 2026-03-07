@@ -89,15 +89,12 @@ public class Developer {
 **🏗️ Microservice & Cloud**
 
 ![Nacos](https://img.shields.io/badge/Nacos-1CACEB?style=for-the-badge&logo=alibaba&logoColor=white)
-![Dubbo](https://img.shields.io/badge/Dubbo-EF2F2F?style=for-the-badge&logo=apache&logoColor=white)
 ![OpenFeign](https://img.shields.io/badge/OpenFeign-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Gateway](https://img.shields.io/badge/Spring_Gateway-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 **🐳 DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -106,28 +103,6 @@ public class Developer {
 
 <br/>
 
-## 🚀 精选项目 / Featured Projects
-
-
-<div align="center">
-
-<a href="https://github.com/carryxiaoguo/guooj-code-sandbox">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carryxiaoguo&repo=guooj-code-sandbox&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=a8dadc&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/carryxiaoguo/guooj-mainbacked">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carryxiaoguo&repo=guooj-mainbacked&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=a8dadc&text_color=c9d1d9" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/carryxiaoguo/guoguo-ai-agent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carryxiaoguo&repo=guoguo-ai-agent&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=a8dadc&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/carryxiaoguo/guooj-frontend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carryxiaoguo&repo=guooj-frontend&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=a8dadc&text_color=c9d1d9" />
-</a>
-
-</div>
 
 <br/>
 
