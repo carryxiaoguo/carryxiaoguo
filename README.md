@@ -108,12 +108,6 @@ public class Developer {
 
 <br/>
 
-## 📈 贡献图 / Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=carryxiaoguo&bg_color=0d1117&color=a8dadc&line=e94560&point=ff6b6b&area=true&hide_border=true" />
-</div>
-
 <br/>
 
 <br/>
